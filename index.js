@@ -1,1 +1,1 @@
-console.log('GitHub API test');
+console.log("This is a sample PR test");
